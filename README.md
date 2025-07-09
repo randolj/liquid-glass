@@ -39,4 +39,4 @@ npm run dev
 
 ## 🎬 Demo
 
-[Liquid Glass Demo](/demo.gif) -->
+[Liquid Glass Demo](/public/demo.gif) -->
